@@ -5,6 +5,10 @@
 [![7in7][7in7]][7in7-url]
 [![License: MIT][license]][license-url]
 
+<a href="https://pragprog.com/book/btlang/seven-languages-in-seven-weeks" target="_blank">
+  <img src="./assets/book-cover.jpg" align="right" alt="7in7"><img>
+<a>
+
 ```shell
 ███████╗██╗███╗   ██╗███████╗
 ╚════██║██║████╗  ██║╚════██║
