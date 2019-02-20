@@ -1,6 +1,6 @@
 # Print your name ten times.
 
-def print(name)
+def print name
   count = 10
   while count > 0 
     count -= 1
@@ -8,4 +8,4 @@ def print(name)
   end
 end
 
-print("Aung Myo Kyaw");
+print("Aung Myo Kyaw")

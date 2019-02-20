@@ -4,4 +4,4 @@ def sayHelloWorld
   puts "Hello World"
 end
 
-sayHelloWorld();
+sayHelloWorld()
