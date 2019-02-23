@@ -20,7 +20,7 @@
 
 ## Solutions
 
-- [ ] [Ruby][ruby-url]
+- [x] [Ruby][ruby-url]
 - [ ] [Io][io-url]
 - [ ] [Prolog][prolog-url]
 - [ ] [Scala][scala-url]
