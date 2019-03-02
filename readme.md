@@ -17,13 +17,13 @@
 
 ## Solutions
 
-- [x] [Ruby][ruby-url]
-- [ ] [Io][io-url]
-- [ ] [Prolog][prolog-url]
-- [ ] [Scala][scala-url]
-- [ ] [Erlang][erlang-url]
-- [ ] [Clojure][clojure-url]
-- [ ] [Haskell][haskell-url]
+- [Ruby][ruby-url]
+- [Io][io-url]
+- [Prolog][prolog-url]
+- [Scala][scala-url]
+- [Erlang][erlang-url]
+- [Clojure][clojure-url]
+- [Haskell][haskell-url]
 
 [ruby-url]: ./ruby
 [io-url]: ./io
